@@ -1,14 +1,7 @@
-Hi 👋 My name is Miraç
+This is Miraç
 ======================
 
-Back-End Developer & System Administrator
------------------------------------------
-
-*   🌍  I'm based in Konya
-*   ✉️  You can contact me at [mirac@matabt.com](mailto:mirac@matabt.com)
-*   🚀  I'm currently working on [Mata Bilişim](http://matabt.com)
-*   🧠  I'm learning Blockchain
-*   🤝  I'm open to collaborating on In all projects### Skills<p align="left">
+*   🤝  ### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
